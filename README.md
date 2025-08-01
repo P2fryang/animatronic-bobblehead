@@ -47,7 +47,8 @@ With the target coordinates (and heavy math) out of the way, we simply need to c
 
 Given the scale of the wiring and set up, especially given we were spread across the state, we were able to use Unity to simulate the logic and design the basic behavior of the sensors and motors. This ended up being super helpful given we were able to visualize
 
-[![Unity Simulation](https://raw.githubusercontent.com/P2fryang/animatronic-bobblehead/main/media/top_down_thumbnail.png)](https://raw.githubusercontent.com/P2fryang/animatronic-bobblehead/main/media/Top_Down_View.mp4)
+https://github.com/user-attachments/assets/48785e9c-b04a-4e38-a799-831f5148e824
+
 
 ## Additional Features
 
